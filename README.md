@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/GrBgPdG.gif)
+![](https://i.imgur.com/IChfrV6.gif)
 > 畫出簡單的外型，就可以完成繽紛聖誕樹
